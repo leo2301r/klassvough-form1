@@ -1,3 +1,6 @@
 'use client'
 import Wizard from './KlassVoughWizard'
-export default function Page() { return <Wizard /> }
+
+export default function Page() {
+  return <Wizard />
+}
